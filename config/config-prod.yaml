@@ -1,7 +1,7 @@
 company:
   database:
     username:
-      git-username-prod
+      git-username-prod-updated
     password:
-      git-password-prod
+      git-password-prod-updated
       
