@@ -1,0 +1,7 @@
+company:
+  database:
+    username:
+      git-username-prod
+    password:
+      git-password-prod
+      
