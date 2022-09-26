@@ -1,0 +1,4 @@
+company:
+  database:
+    username: git-username-default
+    password: git-password-default
