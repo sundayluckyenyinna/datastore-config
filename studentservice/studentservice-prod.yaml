@@ -1,4 +1,4 @@
 company:
   database:
-    username: git-username-prod
+    username: git-username-production
     password: git-password-prod
